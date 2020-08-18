@@ -1,7 +1,24 @@
+body {
+    background: #CCCCCC;
+}
+
 p {
     text-align: center
     }
 
-body {
-    background: #CCCCCC;
+em strong {
+    color: red;
 }
+
+/* Cores # __ __ __ 
+           R  G  B
+ 0 = ausência de cor
+ F = o máximo de cor
+ Vermelho = # FF 00 00
+ 
+ RGB: 0,1,2...255
+  0 = ausência de cor
+255 = o máximo de cor
+rgb(255,255,255)
+rgb(0,0,255)
+ */
