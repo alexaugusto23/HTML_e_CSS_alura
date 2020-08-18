@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="360" height="300" src="https://github.com/alexaugusto23/HTML_e_CSS_alura/blob/master/img/HTML%20e%20CSS.gif">
+  <img width="660" height="300" src="https://github.com/alexaugusto23/HTML_e_CSS_alura/blob/master/img/HTML%20e%20CSS.gif">
 </p>
 
 
@@ -13,7 +13,7 @@ __Por: Alexsandro Augusto Ignácio e instrutor | Alura
 * Desenvolva um página Web
 
 <p align="center">
-  <img width="360" height="300" src="https://github.com/alexaugusto23/HTML_e_CSS_alura/blob/master/img/pc_interativo.gif">
+  <img width="660" height="300" src="https://github.com/alexaugusto23/HTML_e_CSS_alura/blob/master/img/pc_interativo.gif">
 </p>
 
 ### __Conhecimentos do curso__
