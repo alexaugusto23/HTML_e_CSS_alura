@@ -38,6 +38,11 @@ h2 {
     text-align: center;
 }
 
+ul{
+    display: inline-block;
+    vertical
+}
+
 #banner2{
     width: 50%;
 }
