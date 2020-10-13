@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Indubitably
+Author: Nick's Fonts
+Url: http://www.fontsquirrel.com/fonts/indubitably
+
+Font: KelmscottRoman
+Author: Nick's Fonts
+Url: http://www.fontsquirrel.com/fonts/kelmscottroman
